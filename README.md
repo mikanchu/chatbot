@@ -42,3 +42,4 @@ Download anconda from [here](https://www.anaconda.com/download/)
 
 ## Documentation
 - Anaconda environment management: [link](https://conda.io/docs/user-guide/tasks/manage-environments.html)
+- Jupyter notebook slideshow [here](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
